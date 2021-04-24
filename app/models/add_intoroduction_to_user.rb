@@ -1,0 +1,2 @@
+class AddIntoroductionToUser < ApplicationRecord
+end
